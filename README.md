@@ -1,1 +1,2 @@
-Enter your birth day
+Enter your birth day-
+
